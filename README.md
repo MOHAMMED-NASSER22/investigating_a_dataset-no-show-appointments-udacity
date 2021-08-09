@@ -1,2 +1,1 @@
-# investigating_a_dataset-no-show-appointments-udacity
- investigating a dataset "no show appointments"
+UDACITY Data Analysis Nanodegree Project 02: investigating a dataset "no show appointments"
