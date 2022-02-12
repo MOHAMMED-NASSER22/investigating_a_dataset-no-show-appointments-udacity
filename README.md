@@ -12,5 +12,5 @@
 #### using data analysis proccess to explore a data set answer questions we were interested on.
 ###### 1-Clean data 
 ###### 2-explore data
-###### 3-answer questions by visualize the data
+###### 3-answer questions by visualizing the data
 ###### 4-make conclusions
